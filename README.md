@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/@sameerreddy-0e76a8)](https://www.linkedin.com/in/your-profile/) &nbsp;&nbsp; [![GitHub Badge](https://img.shields.io/badge/-@sameerreddy789-333?style=social&logo=github&logoColor=black)](https://github.com/sameerreddy789) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-vediums@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:vediums@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/@sameerreddy-0e76a8)](https://www.linkedin.com/in/sameer-reddy-vedium-goat) &nbsp;&nbsp; [![GitHub Badge](https://img.shields.io/badge/-@sameerreddy789-333?style=social&logo=github&logoColor=black)](https://github.com/sameerreddy789) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-vediums@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:vediums@gmail.com)
 
 </div>
 
