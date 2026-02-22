@@ -58,3 +58,7 @@
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sameerreddy789&label=Profile%20views&color=0e75b6&style=flat" alt="sameerreddy789" /> </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=18&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+inspired+by+%40technicalmonish" />
+</div>
