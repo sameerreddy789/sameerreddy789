@@ -15,7 +15,7 @@
 
 - 🧑‍💻 CS student from Tirupati, Andhra Pradesh
 
-- 🔭 I'm currently working on **[NextStep AI](https://github.com/sameerreddy789/NextStep-AI)**
+- 🔭 I'm currently working on **[NextStep AI](https://github.com/sameerreddy789/NextStep_AI)**
 
 - 🌱 I'm currently learning **React.js & Advanced AI Integration**
 
@@ -27,13 +27,13 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,nodejs,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,tailwind,nodejs&theme=dark" />
 </p>
 
 <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif?cid=ecf05e47nfhfh6dzq7v2j8p8s0h31w7r4i6p7o7z8ixj0g7c&rid=giphy.gif" width="22px" align="top"/> &nbsp; **Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel&theme=dark" />
 </p>
 
 
@@ -53,8 +53,10 @@
 
 | Project | Description |
 |---------|-------------|
-| **[NextStep AI](https://github.com/sameerreddy789/NextStep-AI)** | AI-powered interview prep & learning roadmap platform with curated video resources |
+| **[NextStep AI](https://github.com/sameerreddy789/NextStep_AI)** | AI-powered interview prep & learning roadmap platform with curated video resources |
 | **[SwapCircle](https://github.com/sameerreddy789/Swap_Circle001)** | A platform for swapping and exchanging items within a community circle |
+| **[TimeTable Scheduler](https://github.com/sameerreddy789/TimeTable_Scheduler)** | A smart timetable scheduling app to organize and manage your academic schedule |
+| **[Dear Me](https://github.com/sameerreddy789/Dear_Me)** | A warm digital diary app with rich text editing, mood tracking, doodles, and pastel themes |
 
 </div>
 
