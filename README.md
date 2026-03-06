@@ -45,13 +45,6 @@
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameerreddy789&theme=tokyonight" />
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=sameerreddy789&theme=midnight-purple" align="center" />
-  <br>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sameerreddy789/sameerreddy789/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sameerreddy789/sameerreddy789/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sameerreddy789/sameerreddy789/output/github-snake.svg">
-  </picture>
 </div>
 
 
