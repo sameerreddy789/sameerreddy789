@@ -39,10 +39,10 @@
 
 <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">    Github Stats:</h2>
 <div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameerreddy789&theme=tokyonight" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameerreddy789&theme=tokyonight" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameerreddy789&theme=tokyonight" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameerreddy789&theme=tokyonight" />
+  <img height="180em" src="https://raw.githubusercontent.com/sameerreddy789/sameerreddy789/profile-summary-cards-output/github-metrics/profile-details.svg" />
+  <img height="180em" src="https://raw.githubusercontent.com/sameerreddy789/sameerreddy789/profile-summary-cards-output/github-metrics/repos-per-language.svg" />
+  <img height="180em" src="https://raw.githubusercontent.com/sameerreddy789/sameerreddy789/profile-summary-cards-output/github-metrics/most-commit-language.svg" />
+  <img height="180em" src="https://raw.githubusercontent.com/sameerreddy789/sameerreddy789/profile-summary-cards-output/github-metrics/stats.svg" />
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=sameerreddy789&theme=midnight-purple" align="center" />
 </div>
