@@ -38,10 +38,16 @@
 
 <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">    Github Stats:</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameerreddy789&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerreddy789&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+  <picture>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sameerreddy789&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&count_private=true" />
+  </picture>
+  <picture>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sameerreddy789&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+  </picture>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sameerreddy789&theme=midnight-purple&hide_border=true&background=0D1117" align="center" />
+  <picture>
+    <img src="https://streak-stats.demolab.com?user=sameerreddy789&theme=midnight-purple&hide_border=true&background=0D1117" />
+  </picture>
 </div>
 
 
