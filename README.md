@@ -1,4 +1,3 @@
----
 <!--[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/sameerreddy789)-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3200&&pause=200&background=F0FFFF&color=A855F7&center=true&multiline=true&random=false&width=800&height=110&lines=Hey+there,;I'm+Sameer+Reddy!)](https://git.io/typing-svg)
@@ -39,12 +38,10 @@
 
 <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">    Github Stats:</h2>
 <div align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/sameerreddy789/sameerreddy789/profile-summary-cards-output/github-metrics/profile-details.svg" />
-  <img height="180em" src="https://raw.githubusercontent.com/sameerreddy789/sameerreddy789/profile-summary-cards-output/github-metrics/repos-per-language.svg" />
-  <img height="180em" src="https://raw.githubusercontent.com/sameerreddy789/sameerreddy789/profile-summary-cards-output/github-metrics/most-commit-language.svg" />
-  <img height="180em" src="https://raw.githubusercontent.com/sameerreddy789/sameerreddy789/profile-summary-cards-output/github-metrics/stats.svg" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameerreddy789&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerreddy789&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
   <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=sameerreddy789&theme=midnight-purple" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sameerreddy789&theme=midnight-purple&hide_border=true&background=0D1117" align="center" />
 </div>
 
 
